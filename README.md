@@ -10,7 +10,7 @@ Backdoor attacks pose a critical threat by embedding hidden triggers into inputs
 The method was ran on GTSRB and CIFAR-10. Each dataset folder has subfolders with the corresponding attacks.
 
 #### GSTRB: https://drive.google.com/uc?export=download&id=1QXGiIVGctdjoyGPE_CWNIIjLrUT77DSd
-#### CIFAR-10: 
+#### CIFAR-10: https://drive.google.com/uc?export=download&id=1q-6umP9Ri9btB7jDa2pxKrPurxBi5ski
 
 # Script
 The main script (Prefix_Tuning.ipynb) was ran on Google Colab L4 GPU. To recreate the expriment, follow the script and adjust paths accordingly. 
