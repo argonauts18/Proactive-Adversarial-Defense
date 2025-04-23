@@ -14,6 +14,6 @@ The method was ran on GTSRB and CIFAR-10. Each dataset folder has subfolders wit
 #### CIFAR-10: https://drive.google.com/uc?export=download&id=1q-6umP9Ri9btB7jDa2pxKrPurxBi5ski
 
 # Script
-The main script (Prefix_Tuning.ipynb) was ran on Google Colab L4 GPU. To recreate the expriment, follow the script and adjust paths accordingly. Please let me know if you have any issues!
+The main script (Prefix_Tuning.ipynb) was ran on Google Colab L4 GPU. You must specify the unseen attack you would like to run the experiment on. Plus, I would restart the runtime for each new experiment ran. To recreate the expriment, follow the script and adjust paths accordingly. Please let me know if you have any issues!
 
 
